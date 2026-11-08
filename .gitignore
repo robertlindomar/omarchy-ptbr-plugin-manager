@@ -1,0 +1,12 @@
+*.bak
+*.bak-*
+.backup-*
+*.tmp
+*.log
+*~
+.DS_Store
+.env
+.env.*
+.cache/
+backups/
+secrets/
